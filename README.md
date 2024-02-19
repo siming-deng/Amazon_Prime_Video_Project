@@ -14,6 +14,10 @@ This is a [Kaggle](https://www.kaggle.com/datasets/dgoenrique/amazon-prime-movie
 - **scipy**
 - **cardiffnlp/twitter-roberta-base-sentiment-latest**
 - **SamLowe/roberta-base-go_emotions**
+### Techniques Used
+- Exploratory Data Analysis
+- Market Analysis
+- Sentiment Analysis
 ### Questions trying to answer
 1. What type of contents are the users most likely watch on Amazon Prime?
 2. Which countries is dominating the Amazon market share?
@@ -22,7 +26,7 @@ This is a [Kaggle](https://www.kaggle.com/datasets/dgoenrique/amazon-prime-movie
 5. Over the past 20 years, what is the content trend on Amazon Prime?
 6. Who are Amazon Prime's target users?
 7. Correlation between IMDB score and TMDB score
-8. Relationship between Roberta Positive and Negative Score\
+8. Relationship between Roberta Positive and Negative Score
 9. Sentiment Distribution of Content on Amazon Prime Video
 10. Words most likely to make it to the title on Amazon Prime Video
 11. Most popular actors/directors on Amazon Prime 
