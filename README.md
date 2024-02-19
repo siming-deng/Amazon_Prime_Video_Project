@@ -4,7 +4,7 @@ This project is going to be focused on analysing Amazon Prime Video. Looking at 
 ### Dataset Used
 This is a [Kaggle](https://www.kaggle.com/datasets/dgoenrique/amazon-prime-movies-and-tv-shows) dataset. It is available as **credits.csv** and **titles.csv** <br><br>
 **Disclaimer:** The analysis and conclusions based on the dataset from Amazon Prime may not reflect the current trends and offerings of Amazon Prime Video. The dataset provides insights based on a specific time period and may not capture the most up-to-date information or changes in the streaming platform.
-### Packages and Model Used
+### Packages and Models Used
 - **pandas**
 - **numpy**
 - **pycountry**
